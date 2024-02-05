@@ -1,0 +1,4 @@
+#!/bin/sh
+
+glslc vs.vert -o vs.spv
+glslc fs.frag -o fs.spv
